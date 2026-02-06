@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Jenkins Pipeline Project</title>
+</head>
+<body style="text-align:center;font-family:Arial;">
+    <h1>🚀 My Jenkins Pipeline Build</h1>
+    <p>This project is pushed from GitHub and built by Jenkins.</p>
+</body>
+</html>
